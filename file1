@@ -3,3 +3,4 @@ date
 pwd
 ifconfig
 time
+echo "added 6th line"
